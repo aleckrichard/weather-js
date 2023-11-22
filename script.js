@@ -1,4 +1,4 @@
-const API_KEY = 'your_api_key';
+const API_KEY = 'c7e1c340a3881254aa02c6a4425c2046';
 const KELVIN = 273.15;
 
 function fetchDatosClima() {
